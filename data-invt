@@ -1,0 +1,29 @@
+{
+ "invited":[
+  {
+    "id": 1,
+    "nama_pengguna": "John Doe",
+    "waktu": "2023-09-03T10:00:00"
+  },
+  {
+    "id": 2,
+    "nama_pengguna": "Jane Smith",
+    "waktu": "2023-09-03T11:15:30"
+  },
+  {
+    "id": 3,
+    "nama_pengguna": "Alice Johnson",
+    "waktu": "2023-09-03T14:45:00"
+  },
+  {
+    "id": 4,
+    "nama_pengguna": "Bob Brown",
+    "waktu": "2023-09-03T16:30:20"
+  },
+  {
+    "id": 5,
+    "nama_pengguna": "Eva Wilson",
+    "waktu": "2023-09-03T19:20:45"
+  }
+]
+}
